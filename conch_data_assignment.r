@@ -1,5 +1,5 @@
 rm(list=ls())
-#setwd('/Users/tiarethompson/Desktop/Enst310')
+#setwd('/Users/####/Desktop/####')
 conch.data<-read.csv("conch.csv")
 head(conch.data)
 #sapply(masticBay.df, class)
